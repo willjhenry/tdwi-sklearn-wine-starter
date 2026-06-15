@@ -1,0 +1,12 @@
+*.pyc
+__pycache__/
+models/*.joblib
+.ipynb_checkpoints/
+.pytest_cache/
+.venv/
+INSTRUCTOR.md
+NOTEBOOK_STYLE_GUIDE.ipynb
+AGENTS_DEV.md
+BACKLOG.md
+WORKSHOP_LAYOUT.md
+.cursor/rules/course-authoring.mdc

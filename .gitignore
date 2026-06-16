@@ -5,6 +5,7 @@ models/*.joblib
 .pytest_cache/
 .venv/
 INSTRUCTOR.md
+LAB2_OUTLINE.md
 NOTEBOOK_STYLE_GUIDE.ipynb
 AGENTS_DEV.md
 BACKLOG.md

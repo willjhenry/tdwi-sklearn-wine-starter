@@ -19,12 +19,15 @@ Use **this file (`AGENTS.md`)**, the user's prompt, and the Python source/tests 
 
 Starter files live at the repo root:
 
-- `train_model.py` — load Wine data, train classifier, save artifact
-- `test_model.py` — pytest tests
+- `REQUIREMENTS.md` — requirements template; students fill this in during the lab (follow the user's version when implementing)
+- `train_model.py` — training code (incomplete in the starter; implement per `REQUIREMENTS.md`)
+- `test_model.py` — pytest acceptance tests
 
 Model artifacts:
 
 - `models/wine_classifier.joblib` — saved classifier (created by `train_model.py`)
+
+Reference examples (do not copy verbatim unless the user asks): `examples/requirements/`.
 
 ## Core workflow rules
 

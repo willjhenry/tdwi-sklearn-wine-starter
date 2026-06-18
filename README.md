@@ -9,9 +9,9 @@ This repository is the starter project for the **local agent** hands-on workshop
 | Step | You do | You learn |
 |------|--------|-----------|
 | **Setup** ([README](README.md)) | Fork, clone, `.venv`, test push | Your own GitHub repo for the exercise |
-| **Lab 2** | Local Cursor agent builds a Wine classifier → `AGENTS.md` → `scripts/check.sh` → `/commit-code` | Recipe 1–3: deterministic gates, agent context, slash-command inner loop |
+| **Lab 2** | Local Cursor agent: requirements → plan → build model + tests → `check.sh` → **create** `/commit-code` → commit | Recipe 1–3: deterministic gates, agent context, slash-command inner loop |
 
-**Contrast with Lab 3:** Lab 3 uses **Cursor Cloud Agents** and GitHub PR Automations. Lab 2 stays **local**—same inner-loop ideas (`check.sh` + sub-agent review), wired through **`/commit-code`** instead of a Cloud Agent golden prompt.
+**Contrast with Lab 3:** Lab 3 uses **Cursor Cloud Agents** and GitHub PR Automations; students **create `check.sh` in class**. Lab 2 stays **local**—students **create `/commit-code` in class** (same inner-loop ideas: `check.sh` + sub-agent review).
 
 **After the lab:** [WORKFLOW_RECIPES.md](WORKFLOW_RECIPES.md) — agent workflow framework and adoption path for later recipes.
 

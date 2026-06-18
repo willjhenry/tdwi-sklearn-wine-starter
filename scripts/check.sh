@@ -12,5 +12,6 @@ pip install --dry-run -r requirements.txt
 # echo "==> ruff check"
 # ruff check .
 
+# Exit code 5 = no tests collected yet (OK before students add test_model.py).
 echo "==> pytest"
-python -m pytest test_model.py
+python -m pytest . || test $? -eq 5

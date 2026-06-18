@@ -24,7 +24,7 @@ Build a scikit-learn classifier that predicts **wine cultivar** (3 classes) from
 - Implement training in `train_model.py` (use `wine_data.py` for load + split)
 - Save the best fitted pipeline to **`models/wine_classifier.joblib`**
 - `python train_model.py` prints holdout accuracy
-- All tests in `test_model.py` pass
+- Agent adds `test_model.py` from success metrics; all acceptance tests pass
 
 ## Out of scope
 

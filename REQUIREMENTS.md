@@ -16,7 +16,7 @@ Fill this in with your agent during the lab. Do not implement until you and the 
 
 ## Deliverables
 
-<!-- Files to create or change; where to save the trained model -->
+<!-- Create test_model.py acceptance tests from Success metrics; implement train_model.py using wine_data.py; save models/wine_classifier.joblib -->
 
 ## Out of scope
 

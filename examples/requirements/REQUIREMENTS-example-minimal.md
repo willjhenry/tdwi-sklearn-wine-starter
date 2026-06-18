@@ -18,7 +18,7 @@ Train a logistic regression wine cultivar classifier on the provided Wine data.
 ## Deliverables
 
 - `train_model.py` saves `models/wine_classifier.joblib`
-- Tests pass
+- Agent adds `test_model.py` from success metrics; all acceptance tests pass
 
 ## Out of scope
 

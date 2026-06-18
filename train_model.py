@@ -1,4 +1,4 @@
-"""Train a wine cultivar classifier — implement per REQUIREMENTS.md."""
+"""Train a wine cultivar classifier — implement per SPEC.md."""
 
 from pathlib import Path
 
@@ -6,7 +6,7 @@ MODEL_PATH = Path("models/wine_classifier.joblib")
 
 
 def train_and_save_model(X_train, X_test, y_train, y_test, random_state=42):
-    raise NotImplementedError("Implement per REQUIREMENTS.md")
+    raise NotImplementedError("Implement per SPEC.md")
 
 
 def main():

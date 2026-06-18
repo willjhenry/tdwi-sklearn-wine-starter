@@ -1,6 +1,6 @@
-# Wine classifier — requirements (example: bounded scope)
+# Wine classifier — spec (example: bounded scope)
 
-**Instructor / reference only.** Copy ideas into your own `REQUIREMENTS.md` during the lab, or use as a fallback if elicitation runs long. Not a student handout path in the notebook—point to `examples/requirements/` only if you need a rescue.
+**Instructor / reference only.** Copy ideas into your own `SPEC.md` during the lab, or use as a fallback if elicitation runs long. Not a student handout path in the notebook—point to `examples/specs/` only if you need a rescue.
 
 ## Goal
 

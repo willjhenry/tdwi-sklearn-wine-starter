@@ -1,6 +1,8 @@
-# Wine classifier — requirements
+# Wine classifier — spec
 
 Fill this in with your agent during the lab. Do not implement until you and the agent agree on the spec.
+
+**Not** [`requirements.txt`](requirements.txt) — that file lists Python packages. This file is your **project spec** (goal, metrics, deliverables).
 
 ## Goal
 

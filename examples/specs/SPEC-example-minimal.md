@@ -1,6 +1,6 @@
-# Wine classifier — requirements (example: minimal)
+# Wine classifier — spec (example: minimal)
 
-**Instructor / reference only.** Shorter spec for a **~45 min** variant: less elicitation, faster plan/execute. Students should still write their own `REQUIREMENTS.md` in a full-length lab.
+**Instructor / reference only.** Shorter spec for a **~45 min** variant: less elicitation, faster plan/execute. Students should still write their own `SPEC.md` in a full-length lab.
 
 ## Goal
 

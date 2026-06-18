@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a Python machine-learning starter repo for the TDWI "Agentic Code Generation" lab (Lab 2). Students build a **scikit-learn** Wine cultivar classifier from a spec (`REQUIREMENTS.md`), add acceptance tests during the lab, and save a model artifact.
+This is a Python machine-learning starter repo for the TDWI "Agentic Code Generation" lab (Lab 2). Students build a **scikit-learn** Wine cultivar classifier from a spec (`SPEC.md`), add acceptance tests during the lab, and save a model artifact.
 
 This is a **hands-on workshop** repository, not production code. The **user's prompt** defines the task for each agent session. Do not reorganize the repo or change import paths unless the user asks.
 
@@ -20,16 +20,16 @@ Use **this file (`AGENTS.md`)**, the user's prompt, and the Python source as you
 Starter files live at the repo root:
 
 - `wine_data.py` — Wine dataset load + fixed train/test split (provided)
-- `REQUIREMENTS.md` — requirements template; students fill this in during the lab (follow the user's version when implementing)
-- `train_model.py` — training code (incomplete in the starter; implement per `REQUIREMENTS.md`)
+- `SPEC.md` — project spec template (not `requirements.txt`); students fill this in during the lab (follow the user's version when implementing)
+- `train_model.py` — training code (incomplete in the starter; implement per `SPEC.md`)
 
-There is **no** `test_model.py` on the starter fork—create it per `REQUIREMENTS.md` when the user asks.
+There is **no** `test_model.py` on the starter fork—create it per `SPEC.md` when the user asks.
 
 Model artifacts:
 
 - `models/wine_classifier.joblib` — saved classifier (created by `train_model.py`)
 
-Reference examples (do not copy verbatim unless the user asks): `examples/requirements/`, `examples/reference/`.
+Reference examples (do not copy verbatim unless the user asks): `examples/specs/`, `examples/reference/`.
 
 ## Core workflow rules
 

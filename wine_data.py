@@ -11,7 +11,7 @@ def load_features_and_target():
 
 
 def get_train_test_split(random_state=42, test_size=0.2):
-    """Return a fixed holdout split. Do not change unless REQUIREMENTS.md says so."""
+    """Return a fixed holdout split. Do not change unless SPEC.md says so."""
     X, y = load_features_and_target()
     return train_test_split(
         X, y, test_size=test_size, random_state=random_state

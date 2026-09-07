@@ -47,6 +47,12 @@ Once `test_model.py` exists:
 python -m pytest
 ```
 
+When implementing per `SPEC.md`:
+
+- Write or update **acceptance tests** in `test_model.py` from the spec's success metrics **before** implementing training code—not as an afterthought.
+- Run `python -m pytest` after changes; fix failures before claiming the task is done.
+- Keep tests passing as you extend or refactor the model.
+
 ### Before committing
 
 Run the deterministic check script and fix all failures. Re-run until exit code 0:

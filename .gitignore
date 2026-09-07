@@ -1,13 +1,13 @@
 *.pyc
 __pycache__/
 models/*.joblib
+*.pdf
 .ipynb_checkpoints/
 .pytest_cache/
 .venv/
 INSTRUCTOR.md
 LAB2_OUTLINE.md
 NOTEBOOK_STYLE_GUIDE.ipynb
-AGENTS_DEV.md
 BACKLOG.md
 WORKSHOP_LAYOUT.md
 .cursor/rules/course-authoring.mdc
